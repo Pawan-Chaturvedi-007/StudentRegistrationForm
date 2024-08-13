@@ -1,8 +1,6 @@
 import React from 'react';
 import {Table,Space,Button} from 'antd';
 import {useState,useEffect} from 'react';
-import StudentTestingForm from "./StudentTestingForm";
-import {BrowserRouter as Router,Switch,Route,Link,} from "react-router-dom";
 
 const StudentShowData=(props)=>
 {
